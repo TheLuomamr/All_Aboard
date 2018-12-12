@@ -1,21 +1,16 @@
 body{
     font-family: 'Bitter', serif;
     background-color:rgb(233, 229, 229)
-
 }
-
 #table{
     font-weight: bold
 }
-
 #information{
     margin-top: 10px;
 }
-
 #foot{
     text-align:center
 }
-
 .card-header{
     background-color: mediumaquamarine;
 }
